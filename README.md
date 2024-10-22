@@ -1,0 +1,1 @@
+# 2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4225-kolevatykh_n_a
