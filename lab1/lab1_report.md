@@ -29,3 +29,4 @@ Date of finished: 22.10.2024
 ![image](https://github.com/user-attachments/assets/f3e5100a-99d4-44df-8cad-677d62b62198)
 
 5. Результат: из-за смены прав невозможно увидеть или скопировать файлы
+![image](https://github.com/user-attachments/assets/0c49da28-043c-47e0-a79b-bbc5d09571a0)
