@@ -1,3 +1,21 @@
+University: ITMO University
+
+Faculty: FTMI
+
+Course: Cloud platforms as the basis of technology entrepreneurship
+
+Year: 2024
+
+Group: U4225
+
+Author: Kolevatykh Niktia Alexandrovich
+
+Lab: Lab4
+
+Date of create: 27.10.2024
+
+Date of finished: 29.10.2024
+
 **Приложение для Анализа Ментального Здоровья**
 Назначение: Оценка уровня стресса и предложений для улучшения эмоционального состояния.
 Базовая функциональность: Приложение задает пользователю вопросы о его самочувствии, выявляет возможные признаки стресса и предлагает упражнения для релаксации.
